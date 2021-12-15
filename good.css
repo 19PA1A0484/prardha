@@ -1,0 +1,113 @@
+body {
+	background-image: url("cat.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+.bn{
+	color: #04f904;
+	font-size: 58px;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	padding-left: 60px;
+}
+.vb{
+	height:200px;
+	background-image: url(fat.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 10px;
+}
+.bv{
+	padding-top: px;
+}
+.cv{
+	height: 200px;
+	width: 200px;
+}
+.vd{
+	margin-left:600px;
+	margin-top: -160px;
+
+}
+.xz{
+	text-align: right;
+	margin-top: -150px;
+	margin-right: 50px;
+	color: purple;
+
+}
+.df{
+	background-color: #eff2f7;
+	height: 400px;
+	width: 500px;
+	margin-left: 450px;
+	margin-top: 20px;
+}
+.uv{
+    padding-left: 130px;
+    font-size: 30px;
+    padding-top: 30px;
+}
+h6{
+	margin-left: -60px; 
+	color: green;
+}
+.dfg{
+	margin-left:10px;
+	background-color: #36aa8b;
+	height: 50px;
+	width:100px;
+	color: pink;
+}
+.vfd{
+	height: 150px;
+	width:200px;
+}
+.rde{
+	background-image: url("cat.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bhg{
+	text-align: center;
+	font-size: 60px;
+}
+.nac{
+	background-image: url(gagi.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+	width: 500px;
+	margin-left: 450px;
+	margin-top: 20px;
+}
+.man{
+	padding-top: 40px;
+	margin-top: 20px;
+	font-size: 20px;
+	padding-left: 20px;
+}
+.drag{
+	padding-top: 10px;
+	padding-bottom: 5px;
+	margin-top: 10px;
+	width:300px;
+	height: 20px;
+	font-style: Clarendon Serif;
+	font-size: 20px;
+	margin-left: 50px;
+	margin-bottom: 10px;
+
+}
+.bar{
+	height: 30px;
+	width:200px;
+	margin-top:10px;
+	margin-left: 100px;
+	background-image: url(hat.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:yellow;
+}

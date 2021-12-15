@@ -1,0 +1,252 @@
+body{
+	background-image: url("fat.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.dad{
+	height:550px;
+	background-image: url("cat.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:800px;
+	margin-left: 300px;
+	margin-top: 40px;
+}
+.gv{
+	height: 550px;
+	width: 400px;
+}
+.drag{
+	padding-top: 10px;
+	padding-bottom: 5px;
+	margin-top: 10px;
+	width:300px;
+	height: 20px;
+	font-style: Clarendon Serif;
+	font-size: 20px;
+	margin-left: 50px;
+	margin-bottom: 10px;
+
+	}
+.hy{
+	margin-left: 430px;
+	margin-top: -400px;
+	font-size: 20px;
+	padding-bottom:20px;
+
+}
+.gvc{
+	height: 30px;
+	width:200px;
+	margin-top:10px;
+	margin-left: 100px;
+	background-image: url(hat.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:yellow;
+}
+.vani{
+	background-image: url("fat.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#progressbar {
+    margin-bottom: 30px;
+    overflow: hidden;
+    color: #455A64;
+    margin-left: 800px;
+    margin-top:20px
+}
+
+#progressbar li {
+    list-style-type: none;
+    font-size: 20px;
+    width: 30%;
+    float: left;
+    position: relative;
+    font-weight: 400;
+    color: #111010 !important
+}
+
+#progressbar #step1:before {
+    content: "1";
+    color: #141313;
+    width: 15px;
+    margin-left: 15px !important;
+    padding-left: 15px !important
+}
+
+#progressbar #step2:before {
+    content: "2";
+    color: #141313;
+    width: 15px;
+    margin-right: px !important;
+    padding-right: 7px !important;
+    padding-left:7px; 
+
+
+}
+
+#progressbar #step3:before {
+    content: "3";
+    color: #141313;
+    width: 15px;
+    margin-right: 10px !important;
+    padding-right: 7px !important;
+    padding-left: 7px;
+}
+
+#progressbar li:before {
+    line-height: 29px;
+    display: block;
+    font-size: 12px;
+    background: #ea152e;
+    border-radius: 50%;
+    margin: auto
+}
+
+#progressbar li:after {
+    content: '';
+    width: 121%;
+    height: 6px;
+    background: #ea152e;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 15px;
+    z-index: -1
+}
+
+#progressbar li:nth-child(2):after {
+    left: 50%;
+}
+
+#progressbar li:nth-child(1):after {
+    left: 10%;
+    width: 140%
+}
+
+#progressbar li:nth-child(3):after {
+    left: 20% !important;
+    width: 70% !important
+}
+
+#progressbar li.active:before,
+#progressbar li.active:after {
+    background: #ff00ff
+}
+.ramu{
+	background-image: url("cat.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 130px;
+	margin-top: 4px;
+}
+.honey{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.gdax{
+	font-size: 40px;
+	margin-left: 300px;
+	color: indigo;
+	margin-top: -70px;
+}
+.boat{
+	margin-top: -50px;
+	padding-bottom: 10px;
+	font-size: 10px;
+	padding-top: 20px;
+
+}
+.des{
+	font-size: 100px;
+	margin-left: 900px;
+	margin-top: -100px;
+	color: black;
+}
+.pes{
+	font-size: 100px;
+	margin-left: 980px;
+	margin-top: -100px;
+	color: black;
+
+}
+.vhw{
+	font-size: 100px;
+	margin-left: 1060px;
+	margin-top: -100px;
+	color: black;
+
+}
+.jye{
+	height: 40px;
+	width: 150px;
+	margin-top: -70px;
+	margin-bottom:40px;
+	margin-left: 1140px;
+	font-size: 20px;
+	color: red;
+	background-image: url("fat.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#hada{
+	text-align: center;
+}
+.yoho{
+	height:500px;
+	width:700px;
+
+}
+.baby{
+	margin-left: 600px;
+	text-align: center;
+	margin-top: -450px;
+}
+.reddt{
+	margin-left: 850px;
+	height: 70px;
+	width:200px;
+	border-radius: 20px;
+	background-color: #00ff59;
+	font-size: 20px;
+}
+.tang{
+	padding-left: 760px;
+}
+.fan{
+	height: 200px;
+	background: orange;
+	margin-top: 100px;
+}
+.mhg{
+	padding-top: 90px;
+	padding-left: 350px;
+	color: white;
+}
+.dash{
+	padding-top: px;
+	padding-left: 400px;
+	color:;
+
+}
+.user{
+	padding-left: 40px;
+}
+.hand{
+	margin-left: 600px;
+	margin-top: -80px;
+}
+.cax{
+	margin-top: -10px;
+}
+.iuy{
+	margin-top: 40px;
+	margin-right: -50px;
+}
+.grad{
+	margin-left: 1060px;
+	margin-top: -120px;
+}
